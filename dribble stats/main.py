@@ -1,5 +1,3 @@
-# main.py
-
 from dribbble_scraper import DribbbleStatsScraper
 from utils import setup_logging
 
